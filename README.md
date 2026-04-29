@@ -22,7 +22,7 @@ Por que ela foi escolhida?
 Em que momento da jornada essa informação é coletada?
 Existe algum risco de usar essa variável de forma inadequada?
 
-3.Análise Exploratória dos Dados (EDA): realize uma análise exploratória com foco em negócio, não só estatística. Responda:
+3. Análise Exploratória dos Dados (EDA): realize uma análise exploratória com foco em negócio, não só estatística. Responda:
 Quais fatores parecem mais críticos para a satisfação?
 O que mais gera detratores?
 Existe algum “ponto de ruptura” na experiência do cliente?
