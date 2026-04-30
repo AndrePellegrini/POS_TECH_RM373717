@@ -27,4 +27,7 @@ Quais fatores parecem mais críticos para a satisfação?
 O que mais gera detratores?
 Existe algum “ponto de ruptura” na experiência do cliente?
 Que tipo de cliente tende a ter NPS mais alto ou mais baixo?
+
+Base de dados utilizada: desafio_nps_fase1.csv (está anexada no git)
+
 Imagine apresnetado para um(a) gerente de operações que não entende estatística.
